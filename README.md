@@ -5,6 +5,8 @@
 - **[socket-tools](https://github.com/toastoffee/socket-tools):** a C++11 socket tools library
 - **[thread-pool-tools](https://github.com/toastoffee/thread-pool-tools):** a c++11 implementation of thread pool
 - **[serialization-tools](https://github.com/toastoffee/serialization-tools):** a c++11 tool of serialization
+- **[memory-pool-tools](https://github.com/toastoffee/memory-pool-tools.git):** a c++11 implementation of memory pool
+
 
 
 <!--
