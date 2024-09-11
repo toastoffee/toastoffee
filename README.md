@@ -9,7 +9,7 @@
 - **[ecs-tools](https://github.com/toastoffee/ecs-tools):** a simple c++11 implementation of entity component system
 
 ![toastoffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=toastoffee&show_icons=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toastoffee&layout=compact)
 
 <!--
 **toastoffee/toastoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
